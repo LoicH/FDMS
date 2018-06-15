@@ -3,7 +3,7 @@ FDMS: "Fouille de Données et Médias Sociaux" course at Université Pierre et M
 
 Practical sessions:
 
-1. [Data science tutorial](TME1-1/titanic_tutorial.ipynb): predict Titanic survivors
+1. [Data science tutorial](TME1-1/titanic_tutorial.ipynb): predict Titanic survivors, see [the article on my website](https://loich.github.io/2018-06-08-titanic-tutorial/).
 2. [Playing with fishes](TME1-2/TP2.ipynb): polynom interpolation, cross-validation, Akaike information criterion on fish data
 3. [L1-regularization and parcimonious models](TME1-3/reg_l1.ipynb)
 4. [Bagging and boosting implementations](TME1-4/bagging_boosting.ipynb)
